@@ -1,0 +1,3 @@
+[submodule "test-branch-submodule-2"]
+	path = test-branch-submodule-2
+	url = https://github.com/bunsenstraat/test-branch-submodule-2
